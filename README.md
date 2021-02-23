@@ -1,4 +1,4 @@
-# cis189-python
+# Python
 |Topic|Description|
 |---------|--------|
 |Module 0|Introductions, Install Software|
