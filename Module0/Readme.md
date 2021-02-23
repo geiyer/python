@@ -2,9 +2,7 @@
 ```json
 {
  "name": "Gopi Iyer",
- "email": "geiyer@dmacc.edu",
  "linked-in" : "https://www.linkedin.com/in/gopiiyer/",
- "best-way-to-reach": "DMACC Email",
  "expected-response" :"1 Business Day",
  "hobbies": {
     "name": "Travelling",
