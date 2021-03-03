@@ -1,0 +1,5 @@
+Kirk
+Spock
+Scotty
+Data
+Worf
