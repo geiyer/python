@@ -2,7 +2,7 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./Module8-Sets-Dictionary-Array",
+        "./classtesting",
         "-p",
         "test_*.py"
     ],
