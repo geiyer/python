@@ -2,7 +2,8 @@ import unittest
 from class_definitions import person as t
 
 
-class MyTestCase(unittest.TestCase):
+
+class PersonTestCase(unittest.TestCase):
     def setUp(self):
         self.person = t.Person('Duck', 'Daisy')
 

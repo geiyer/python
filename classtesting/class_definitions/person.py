@@ -13,3 +13,6 @@ class Person:
 
     def __str__(self):
         return self.last_name + ", " + self.first_name + ":" + self.ssn
+
+    def display(self):
+         return str(self.last_name) + ", " + str(self.first_name)    
