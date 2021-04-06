@@ -1,0 +1,2 @@
+class InvalidSideError(Exception):
+    pass    
